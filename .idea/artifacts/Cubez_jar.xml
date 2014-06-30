@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Cubez:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cubez_jar</output-path>
+    <root id="archive" name="Cubez.jar">
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/lwjgl-2.9.1/jar/lwjgl_util.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/lwjgl-2.9.1/jar/lwjgl.jar" path-in-jar="/" />
+      <element id="module-output" name="Cubez" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/slick-util.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
