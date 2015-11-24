@@ -1,18 +1,22 @@
-Cubez
-=====
+# Cube
+Rubik's Cube simulator in Java
 
-Cubez
+Demo
+====
+![](https://raw.githubusercontent.com/zzh8829/Cubez/master/demo.png)
 
-Offical Website:<br>
-http://cubez.zihao.ca<br>
-<br>
-Windows Binary:<br>
-http://cubez.zihao.ca/cubez.jar<br>
-<br>
-Awesome Cubez<br>
-Awesome BBQ<br>
-Awesome EVERYTHING<br>
+Features
+========
+360 degrees rotation
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
+Control with mouse dragging
 
-49.99% Credit to (You know who you are <3)
+Built in timer and moves counter
+
+Keyboard shortcuts see instructions
+
+Architecture
+============
+Written in Java with LWJGL library
+
+Modern OpenGL 4.0 Rendering technology
