@@ -20,3 +20,12 @@ Architecture
 Written in Java with LWJGL library
 
 Modern OpenGL 4.0 Rendering technology
+
+
+## How to Run
+
+Mac
+```bash
+brew cask install java
+java -cp out/artifacts/Cubez_jar/Cubez.jar -Djava.library.path=./libs/lwjgl-2.9.1/native/macosx  ca.zihao.cubez.Main
+```
